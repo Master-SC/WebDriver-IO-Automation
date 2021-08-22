@@ -1,0 +1,20 @@
+[
+    {
+        "username":"rahulshettyacademy",
+        "password":"dataid",
+        "errorMsg":"Incorrect username/password.",
+        "pageTitle":"Rahul Shetty Academy",
+        "signInBtnValue":"Sign In",
+        "attributeValue":"value",
+        "credText":"rahulshettyacademy"
+    },
+    {
+        "username":"rahulshettyacademy1",
+        "password":"dataid123",
+        "errorMsg":"Incorrect username/password.",
+        "pageTitle":"Rahul Shetty Academy",
+        "signInBtnValue":"Sign In",
+        "attributeValue":"value",
+        "credText":"rahulshettyacademy"
+    }
+]

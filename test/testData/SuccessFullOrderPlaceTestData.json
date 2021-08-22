@@ -1,0 +1,15 @@
+[
+    {
+        "productcount_0":"0",
+        "productcount_1":"1",
+        "productcount_2":"2",
+        "productcount_6":"6",
+        "productList":["Blackberry", "iphone X", "Nokia Edge", "Samsung Note 8"],
+        "countrySuggestion":"Ind",
+        "countrySelected":"India",
+        "TermsAndCondition":"Terms And Conditions",
+        "OrderSuccessMsg":"Success!",
+        "firstSelectedProd":"Blackberry",
+        "SecondSelectedProd":"iphone X"
+    }
+]
